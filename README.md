@@ -19,5 +19,7 @@ pip install beautifulsoup4
 |html_outputer | 数据输出模块 | 将数据以MD格式存储 |
 
 ## 启动
+```python
 python spider_main.py
+```
 
