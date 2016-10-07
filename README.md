@@ -1,0 +1,2 @@
+# PythonSimpleSpider
+用Python写的简单的爬虫，包含百度百科的爬虫和知乎爬虫
